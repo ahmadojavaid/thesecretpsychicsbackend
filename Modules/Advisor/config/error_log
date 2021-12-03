@@ -1,0 +1,16 @@
+[29-Feb-2020 19:41:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/Modules/Advisor/config/advisor_config.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/Modules/Advisor/config/advisor_config.php on line 14
+[07-Mar-2020 02:49:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/Modules/Advisor/config/advisor_config.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/Modules/Advisor/config/advisor_config.php on line 14
+[08-Apr-2020 16:37:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/Modules/Advisor/config/advisor_config.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/Modules/Advisor/config/advisor_config.php on line 14
+[16-May-2020 22:45:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/Modules/Advisor/config/advisor_config.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/Modules/Advisor/config/advisor_config.php on line 14

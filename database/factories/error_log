@@ -1,0 +1,16 @@
+[25-Feb-2020 01:22:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tspjobesk/public_html/database/factories/UserFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/database/factories/UserFactory.php on line 19
+[01-Mar-2020 12:39:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tspjobesk/public_html/database/factories/UserFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/database/factories/UserFactory.php on line 19
+[02-Apr-2020 13:58:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tspjobesk/public_html/database/factories/UserFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/database/factories/UserFactory.php on line 19
+[11-May-2020 22:38:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/tspjobesk/public_html/database/factories/UserFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/database/factories/UserFactory.php on line 19

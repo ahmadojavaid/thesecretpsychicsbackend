@@ -1,0 +1,4 @@
+[29-Jan-2020 12:12:00 UTC] PHP Fatal error:  Call to undefined function dd() in /home/tspjobesk/public_html/public/index.php on line 11
+[29-Jan-2020 12:46:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/tspjobesk/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[29-Jan-2020 13:02:35 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/tspjobesk/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[04-Feb-2020 06:13:07 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/tspjobesk/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500

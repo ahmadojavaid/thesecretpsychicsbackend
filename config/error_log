@@ -1,0 +1,188 @@
+[20-Feb-2020 06:58:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/queue.php on line 16
+[20-Feb-2020 07:56:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/app.php on line 16
+[20-Feb-2020 07:56:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/filesystems.php on line 16
+[20-Feb-2020 08:45:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tspjobesk/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/view.php on line 17
+[20-Feb-2020 10:04:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/session.php on line 21
+[20-Feb-2020 11:36:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/logging.php on line 19
+[20-Feb-2020 11:52:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/mail.php on line 19
+[20-Feb-2020 12:49:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/database.php on line 18
+[20-Feb-2020 14:08:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/database.php on line 18
+[20-Feb-2020 14:36:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/hashing.php on line 32
+[20-Feb-2020 15:11:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/services.php on line 18
+[20-Feb-2020 19:05:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/cache.php on line 21
+[20-Feb-2020 21:36:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/broadcasting.php on line 18
+[20-Feb-2020 23:11:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/broadcasting.php on line 18
+[26-Feb-2020 13:15:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/queue.php on line 16
+[26-Feb-2020 15:29:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/database.php on line 18
+[26-Feb-2020 18:32:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/cache.php on line 21
+[26-Feb-2020 21:54:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/hashing.php on line 32
+[27-Feb-2020 01:02:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/logging.php on line 19
+[27-Feb-2020 02:08:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/session.php on line 21
+[27-Feb-2020 02:22:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/app.php on line 16
+[06-Mar-2020 16:56:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/mail.php on line 19
+[09-Mar-2020 11:14:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/filesystems.php on line 16
+[09-Mar-2020 17:39:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/broadcasting.php on line 18
+[10-Mar-2020 16:21:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/services.php on line 18
+[18-Mar-2020 19:15:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tspjobesk/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/view.php on line 17
+[01-Apr-2020 01:03:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/database.php on line 18
+[02-Apr-2020 01:33:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/cache.php on line 21
+[03-Apr-2020 21:52:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/queue.php on line 16
+[05-Apr-2020 02:23:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/hashing.php on line 32
+[05-Apr-2020 04:08:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/session.php on line 21
+[08-Apr-2020 09:52:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/logging.php on line 19
+[09-Apr-2020 21:13:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/app.php on line 16
+[12-Apr-2020 05:12:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/filesystems.php on line 16
+[12-Apr-2020 08:26:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/mail.php on line 19
+[14-Apr-2020 14:36:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/broadcasting.php on line 18
+[15-Apr-2020 17:20:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/services.php on line 18
+[23-Apr-2020 19:25:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/tspjobesk/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/view.php on line 17
+[06-May-2020 09:37:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/database.php on line 18
+[07-May-2020 16:40:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/queue.php on line 16
+[10-May-2020 07:51:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/session.php on line 21
+[11-May-2020 11:02:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/cache.php on line 21
+[11-May-2020 12:47:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/hashing.php on line 32
+[12-May-2020 18:06:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/filesystems.php on line 16
+[13-May-2020 10:16:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/mail.php on line 19
+[14-May-2020 00:40:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/logging.php on line 19
+[19-May-2020 21:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/tspjobesk/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/config/broadcasting.php on line 18

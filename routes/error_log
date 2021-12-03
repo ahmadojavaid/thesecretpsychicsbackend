@@ -1,0 +1,48 @@
+[21-Feb-2020 12:56:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/tspjobesk/public_html/routes/web.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/routes/web.php on line 2
+[21-Feb-2020 15:00:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/tspjobesk/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/routes/console.php on line 16
+[21-Feb-2020 23:35:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/tspjobesk/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/routes/channels.php on line 14
+[27-Feb-2020 11:25:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/tspjobesk/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/routes/console.php on line 16
+[27-Feb-2020 14:28:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/tspjobesk/public_html/routes/web.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/routes/web.php on line 2
+[08-Mar-2020 11:31:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/tspjobesk/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/routes/channels.php on line 14
+[02-Apr-2020 17:33:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/tspjobesk/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/routes/console.php on line 16
+[09-Apr-2020 19:59:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/tspjobesk/public_html/routes/web.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/routes/web.php on line 2
+[15-Apr-2020 09:36:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/tspjobesk/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/routes/channels.php on line 14
+[07-May-2020 22:39:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/tspjobesk/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/routes/console.php on line 16
+[16-May-2020 22:33:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/tspjobesk/public_html/routes/web.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/routes/web.php on line 2
+[19-May-2020 18:06:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/tspjobesk/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tspjobesk/public_html/routes/channels.php on line 14
